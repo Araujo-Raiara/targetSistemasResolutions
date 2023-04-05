@@ -1,7 +1,7 @@
-fun main(args: Array<String>) {
+fun main() {
 
     val i = 13
-    var soma: Int = 0
+    var soma = 0
     var k = 0
 
     while (k < i) {
